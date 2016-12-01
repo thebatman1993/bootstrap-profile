@@ -10,8 +10,11 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
+ 
+    background-image: url("../img/miamidolphins.jpg")
+   
 }
+
 article,
 aside,
 details,
@@ -6759,4 +6762,6 @@ button.close {
     display: none !important;
   }
 }
+
+
 /*# sourceMappingURL=bootstrap.css.map */
